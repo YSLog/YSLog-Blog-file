@@ -1,11 +1,11 @@
 Start building sites … 
 hugo v0.139.4-3afe91d4b1b069abbedd6a96ed755b1e12581dfe+extended windows/amd64 BuildDate=2024-12-09T17:45:23Z VendorInfo=gohugoio
 
+WARN  found no layout file for "html" for layout "archives" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN  found no layout file for "html" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN  found no layout file for "html" for layout "archives" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "json" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
@@ -20,5 +20,5 @@ WARN  found no layout file for "json" for layout "search" for kind "page": You s
   Aliases          |  4 |     0 |  0  
   Cleaned          |  0 |     0 |  0  
 
-Total in 23 ms
+Total in 24 ms
 Reinitialized existing Git repository in D:/Workspace/blog/.git/
