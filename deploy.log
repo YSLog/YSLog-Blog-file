@@ -1,0 +1,44 @@
+Start building sites … 
+hugo v0.139.4-3afe91d4b1b069abbedd6a96ed755b1e12581dfe+extended windows/amd64 BuildDate=2024-12-09T17:45:23Z VendorInfo=gohugoio
+
+WARN  found no layout file for "html" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for layout "archives" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "json" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+
+                   | EN | ZH-CN | AR  
+-------------------+----+-------+-----
+  Pages            |  7 |     5 |  4  
+  Paginator pages  |  0 |     0 |  0  
+  Non-page files   |  2 |     0 |  0  
+  Static files     |  1 |     1 |  1  
+  Processed images |  0 |     0 |  0  
+  Aliases          |  4 |     0 |  0  
+  Cleaned          |  0 |     0 |  0  
+
+Total in 25 ms
+Reinitialized existing Git repository in D:/Workspace/blog/.git/
+warning: in the working copy of 'public/about-hugo/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/about-us/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/ar/categories/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/ar/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/ar/sitemap.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/ar/tags/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/categories/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/categories/test/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/contact/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/en/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/en/sitemap.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/page/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/sitemap.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/tags/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/zh-cn/categories/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/zh-cn/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/zh-cn/page/index.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/zh-cn/sitemap.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/zh-cn/tags/index.xml', LF will be replaced by CRLF the next time Git touches it
