@@ -5,8 +5,8 @@ WARN  found no layout file for "html" for kind "home": You should create a templ
 WARN  found no layout file for "html" for layout "archives" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN  found no layout file for "html" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN  found no layout file for "html" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "html" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 WARN  found no layout file for "json" for layout "search" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 
@@ -20,4 +20,5 @@ WARN  found no layout file for "json" for layout "search" for kind "page": You s
   Aliases          |  4 |     0 |  0  
   Cleaned          |  0 |     0 |  0  
 
-Total in 25 ms
+Total in 26 ms
+Reinitialized existing Git repository in D:/Workspace/blog/.git/
